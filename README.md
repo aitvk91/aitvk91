@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @aitvk91
-- 👀 I’m interested in html and content creating
-- 🌱 I’m currently learning html
+- 😐 My real username should be @alitvk91, TYPO!
+- 👀 I’m interested in python and ai and content creating
+- 🌱 I’m currently learning python
 
 <!---
 aitvk91/aitvk91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
